@@ -1,0 +1,4 @@
+.venv/
+scripts/prepped/
+__pycache__/
+*.pyc

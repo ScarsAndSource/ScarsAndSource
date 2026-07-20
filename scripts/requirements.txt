@@ -1,0 +1,9 @@
+# --- Required in CI (daily GitHub Action) ---
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# --- Local only: run once whenever you swap your source photo ---
+# pillow
+# numpy
+# opencv-python
+# rembg
