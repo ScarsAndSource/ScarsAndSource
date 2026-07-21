@@ -2564,7 +2564,7 @@
       <animate attributeName="y" from="33" to="39" begin="0.318s"
                dur="0.4s" fill="freeze" calcMode="ease-out"/>
     </rect>
-    <rect x="808" y="48" width="12" height="12" rx="2.5" fill="#161b22"
+    <rect x="808" y="48" width="12" height="12" rx="2.5" fill="#0e4429"
           opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.324s"
                dur="0.4s" fill="freeze"/>
@@ -2605,5 +2605,5 @@
   <text x="825" y="151" font-family="JetBrains Mono, monospace"
         font-size="11" fill="#8b949e" text-anchor="end">More</text>
   <text x="28" y="157" font-family="JetBrains Mono, monospace"
-        font-size="12" fill="#c9d1d9">47 contributions in the last year · streak 15d (longest 15d)</text>
+        font-size="12" fill="#c9d1d9">48 contributions in the last year · streak 16d (longest 16d)</text>
 </svg>
