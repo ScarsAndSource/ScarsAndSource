@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
+
 <img src="./contrib-heatmap.svg" width="860" alt="contribution heatmap" />
 
 <br><br>
@@ -15,7 +15,7 @@
 
 <br>
 
-<h3><code>avi@github ~ $ echo $MOTTO</code></h3>
+
 <p><code>i win.</code></p>
 
 </div>
