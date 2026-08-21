@@ -1842,15 +1842,20 @@
     },
     {
       "date": "2026-08-20",
+      "level": 1,
+      "count": null
+    },
+    {
+      "date": "2026-08-21",
       "level": 0,
       "count": null
     }
   ],
   "stats": {
-    "total_last_year": 76,
+    "total_last_year": 77,
     "current_streak": 0,
-    "longest_streak": 45,
+    "longest_streak": 46,
     "best_day": "2026-06-11",
-    "generated_at": "2026-08-20"
+    "generated_at": "2026-08-21"
   }
 }
